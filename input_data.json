@@ -1,0 +1,10 @@
+{
+  "table_name": "YourTableName",
+  "fields": {
+    "id": "int",
+    "name": "str",
+    "email": "str",
+    "age": "int",
+    "is_active": "bool"
+  }
+}
