@@ -29,14 +29,12 @@ This project dynamically generates an SQLModel class based on a JSON schema defi
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-
 3. **Install Dependencies**
    ```bash
    pip install sqlmodel
-
+   
 4.** Run the script with:**
    ```bash
    python generate_model.py
-
 
 
